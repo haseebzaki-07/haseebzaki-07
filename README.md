@@ -20,6 +20,7 @@
 - 🌱 Learning **Artificial Intelligence** and diving into cutting-edge tech!
 - 👯 Open to collaborate on **SaaS Projects**
 - 📫 Reach me at **haseebzaki13@gmail.com**
+- 🌟 GSSOC-EXT 2024 #5
 
 ---
 
