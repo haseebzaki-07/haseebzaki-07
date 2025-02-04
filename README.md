@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 Currently working on **Payments Application**
+- 🔭 Currently working on **AI Music-Video Generator**
 - 🌱 Learning **Artificial Intelligence** and diving into cutting-edge tech!
 - 👯 Open to collaborate on **SaaS Projects**
 - 📫 Reach me at **haseebzaki13@gmail.com**
