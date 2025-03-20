@@ -16,7 +16,8 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🔭 Currently working on **AI Music-Video Generator**
+- 💻 Full-Stack Developer at **Persist Ventures**
+- 🔭 Currently working on **AI Music-Video Generator & Editor**
 - 🌱 Learning **Artificial Intelligence** and diving into cutting-edge tech!
 - 👯 Open to collaborate on **SaaS Projects**
 - 📫 Reach me at **haseebzaki13@gmail.com**
