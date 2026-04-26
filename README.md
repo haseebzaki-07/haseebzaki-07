@@ -29,8 +29,6 @@
 
 ---
 
----
-
 ### 🚀 Featured Projects
 
 - **🎬 [Shorts-lol](https://shorts-lol.com)** — AI faceless video automation platform · `Node.js` `BullMQ` `Redis` `Docker` `LLM Pipelines`
@@ -121,15 +119,6 @@
 
 ---
 
-### 🏆 Achievements
-
-- 🥇 **Ranked #5** out of 3,917 participants in **GirlScript Summer of Code Ext 2024** with **198 merged PRs**
-- 🎯 **Top 1.4%** of 40,000 applicants — **Accelerator Programming Camp at Algouniversity** (YC-backed); mentored by senior engineers from **Apple, Google, Alphagrep & Grab**
-- 🏅 Won the **Startup-a-thon at Persist Ventures** by building an AI Music-Video Generator in 2 days
-- 💻 Solved **340+ DSA problems** on LeetCode and GeeksforGeeks
-- 🎃 Completed **Hacktoberfest 2024** with **94 merged PRs** and 4 achievement badges
-- 🛰 **Winter Intern** at **India Space Labs**
-
 
 ### 🌐 Connect with Me
 
@@ -139,9 +128,6 @@
   </a>
   <a href="https://www.leetcode.com/haseebzaki13" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Haseeb%20Zaki-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/haseebzqody" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Haseeb%20Zaki-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks" />
   </a>
   <a href="mailto:haseebzaki13@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Haseeb%20Zaki-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
