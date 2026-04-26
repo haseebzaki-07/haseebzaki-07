@@ -20,9 +20,8 @@
 
 - 💼 **Full-Stack Developer** at **Persist Ventures** (Los Angeles — Remote)
 - 🛠 **Software Engineer** at **Sparkonomy** (Singapore — Remote)
-- 🎓 **B.Tech CSE** at **Vellore Institute of Technology** (CGPA: 8.00)
+- 🎓 **B.Tech CSE** at **Vellore Institute of Technology**
 - 🔭 Currently building **faceless content automation**, **outreach pipelines**, and **creator-economy platforms**
-- 🌱 Diving deep into **Generative AI**, **LLM orchestration**, and **distributed systems**
 - 👯 Open to collaborate on **SaaS** and **AI-powered products**
 - 🏆 **GSSoC-Ext 2024 — Rank #5** out of 3,917 participants
 - 🚀 Selected in the **top 1.4%** of 40,000 applicants for **Algouniversity** (YC-backed)
