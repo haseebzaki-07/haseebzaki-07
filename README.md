@@ -29,17 +29,6 @@
 
 ---
 
-### 💼 Experience
-
-**🧠 Full-Stack Developer · [Persist Ventures](https://persist.org)** — _Mar 2025 – Present_
-- **Co-founder & Lead Dev — [Shorts-lol](https://shorts-lol.com):** AI-powered faceless video automation on Dockerized microservices. Built LLM pipelines for scripting, voiceovers, visuals & subtitles with BullMQ + Redis async job queuing, OAuth, Stripe, and auto-posting to TikTok, YouTube & Instagram. **Scaled to 1,000+ users and 200K+ social media views.**
-- **Lead Dev — [3rings.io](https://3rings.io):** AI creator monetization platform with brand matchmaking pipelines, Skyvern (YC S23) RPA for concurrent outreach automation, GitHub Actions CI/CD on AWS, Mailgun inbound routing via per-user subdomains, and OAuth integrations with YouTube, Instagram & TikTok APIs.
-
-**⚡ Software Engineer · [Sparkonomy](https://sparkonomy.com)** — _Mar 2026 – Present_
-- **Content Automation Pipeline:** Self-hosted n8n workflow chaining Claude, Perplexity, Gemini & GPT-4o for research, gap analysis, multi-draft generation, rubric scoring & humanization. Automated WordPress publishing via REST API — **cutting article drafting from days to under 30 minutes.**
-- **GTM Tracker Pipeline:** Scheduled n8n pipeline aggregating traction data from Facebook Graph, Reddit, Twitter, LinkedIn, Google Analytics & Search Console into PostgreSQL with OAuth token management, Looker Studio dashboards & Slack threshold alerts.
-- **Sparkonomy Monorepo:** Creator-facing URL shortener & admin analytics with Redis-cached redirects, email open-tracking pixel, and a PostgreSQL-backed dashboard surfacing click analytics & engagement metrics.
-
 ---
 
 ### 🚀 Featured Projects
