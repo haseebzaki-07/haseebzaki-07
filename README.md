@@ -18,8 +18,8 @@
 
 ### 👨‍💻 About Me
 
-- 💼 **Full-Stack Developer** at **Persist Ventures** (Los Angeles — Remote)
-- 🛠 **Software Engineer** at **Sparkonomy** (Singapore — Remote)
+- 💼 **Full-Stack Developer** at **Persist Ventures** 
+- 🛠 **Software Engineer** at **Sparkonomy**
 - 🎓 **B.Tech CSE** at **Vellore Institute of Technology**
 - 🔭 Currently building **faceless content automation**, **outreach pipelines**, and **creator-economy platforms**
 - 👯 Open to collaborate on **SaaS** and **AI-powered products**
